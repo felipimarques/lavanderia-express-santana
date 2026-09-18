@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #f7fbf4;
+  color: #0b3b1f;
+  font-family: "Space Grotesk", sans-serif;
+  overflow-x: hidden;
+}
