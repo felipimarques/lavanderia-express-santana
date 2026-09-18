@@ -6,7 +6,7 @@ module.exports = {
       colors: {
         pine: { DEFAULT: "#14532D", deep: "#0B3B1F", lime: "#84CC16", mist: "#F7FBF4" },
       },
-      fontFamily: { sans: ['"Space Grotesk"', "sans-serif"] },
+      fontFamily: { sans: ['"Space Grotesk"', "sans-serif"], script: ["Caveat", "cursive"] },
     },
   },
   plugins: [],
